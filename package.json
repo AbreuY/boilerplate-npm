@@ -3,6 +3,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"description": "Learning managing packages with npm",
 	"keywords": ["freecodecamp", "managing", "packages", "npm"],
+	"license": "BSD",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
